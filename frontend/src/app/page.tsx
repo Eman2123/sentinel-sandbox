@@ -77,7 +77,7 @@ function Navbar() {
         {/* Right */}
         <div className="flex items-center gap-1.5 shrink-0">
           <ThemeToggle />
-          <a href="https://github.com/usufalbaz/sentinel-sandbox" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="nav-icon-btn">
+          <a href="https://github.com/Eman2123/sentinel-sandbox" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="nav-icon-btn">
             <GithubIcon size={16} />
           </a>
           <Link
@@ -447,7 +447,7 @@ function CTABanner() {
               Start Scanning <ArrowRight size={16} />
             </Link>
             <a
-              href="https://github.com/usufalbaz/sentinel-sandbox"
+              href="https://github.com/Eman2123/sentinel-sandbox"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm font-semibold px-8 py-4 rounded-xl transition-all hover:bg-white/5"
@@ -510,7 +510,7 @@ function Footer() {
             <div className="space-y-3">
               <p className="text-xs font-bold uppercase tracking-widest" style={{ color: "var(--text-faint)" }}>Project</p>
               <div className="flex flex-col gap-2.5" style={{ color: "var(--text-muted)" }}>
-                <a href="https://github.com/usufalbaz/sentinel-sandbox" target="_blank" rel="noopener noreferrer"
+                <a href="https://github.com/Eman2123/sentinel-sandbox" target="_blank" rel="noopener noreferrer"
                   className="flex items-center gap-1.5 transition-colors hover:text-sky-400">
                   <GithubIcon size={13} /> GitHub Repo
                 </a>
@@ -526,9 +526,9 @@ function Footer() {
           style={{ borderTop: "1px solid var(--border)", color: "var(--text-faint)" }}
         >
           <span>© 2025 Sentinel Sandbox. Built at IBM Bob Hackathon.</span>
-          <a href="https://github.com/usufalbaz/sentinel-sandbox" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/Eman2123/sentinel-sandbox" target="_blank" rel="noopener noreferrer"
             className="flex items-center gap-1.5 transition-colors hover:text-sky-400">
-            <GithubIcon size={12} /> usufalbaz/sentinel-sandbox
+            <GithubIcon size={12} /> Eman2123/sentinel-sandbox
           </a>
         </div>
       </div>

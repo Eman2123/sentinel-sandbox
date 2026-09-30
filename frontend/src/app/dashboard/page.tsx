@@ -153,7 +153,7 @@ export default function DashboardPage() {
           <div className="flex items-center gap-1.5 shrink-0">
             <ThemeToggle />
             <a
-              href="https://github.com/usufalbaz/sentinel-sandbox"
+              href="https://github.com/Eman2123/sentinel-sandbox"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub repository"
@@ -212,10 +212,7 @@ export default function DashboardPage() {
         >
           {/* Page title row */}
           <div className="mb-5">
-            <h1
-              className="text-lg font-bold tracking-tight"
-              style={{ color: "var(--text-primary)" }}
-            >
+            <h1 className="text-lg font-bold tracking-tight" style={{ color: "var(--text-primary)" }}>
               Security Scanner
             </h1>
             <p className="text-sm" style={{ color: "var(--text-faint)" }}>
